@@ -61,7 +61,7 @@ public class QueryBuilder {
      
     }
     public void extract(String inputString){
-        
+        //extracted
         this.setInputText(inputString);
         this.splited = inputString.split("\\s+");
         String[] valid = new String[inputString.length()];
