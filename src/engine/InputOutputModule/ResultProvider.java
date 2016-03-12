@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author biniam
+ * @author ben
  */
 public class ResultProvider {
     //private MediaPackage currentInput;
